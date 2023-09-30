@@ -16,7 +16,6 @@
 /**
  * Memory Related Macro(s)
  */
-#define PERIPHERAL_BASE 0xFE000000
 
 /**
  * Memory Related Struct(s)
