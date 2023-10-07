@@ -37,6 +37,6 @@ void mem_regw(memreg_t *m);
 
 // reads a memreg from the provided pa, and write it 
 // to the pointer target m.
-void mem_regr(memreg_t *m, void *pa);
+void mem_regr(memreg_t *m);
 
 #endif
